@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/541_mern6/static/css/main.82ccfbc0.css",
-    "main.js": "/541_mern6/static/js/main.234c64f7.js",
-    "static/js/453.a10b87f0.chunk.js": "/541_mern6/static/js/453.a10b87f0.chunk.js",
-    "static/media/applogo.png": "/541_mern6/static/media/applogo.00c1209e36b246541d48.png",
-    "static/media/img1.jpg": "/541_mern6/static/media/img1.a99a7cd402d58c766c4d.jpg",
-    "index.html": "/541_mern6/index.html",
-    "main.82ccfbc0.css.map": "/541_mern6/static/css/main.82ccfbc0.css.map",
-    "main.234c64f7.js.map": "/541_mern6/static/js/main.234c64f7.js.map",
-    "453.a10b87f0.chunk.js.map": "/541_mern6/static/js/453.a10b87f0.chunk.js.map"
+    "main.css": "/541_mern7/static/css/main.82ccfbc0.css",
+    "main.js": "/541_mern7/static/js/main.df3f5641.js",
+    "static/js/453.a10b87f0.chunk.js": "/541_mern7/static/js/453.a10b87f0.chunk.js",
+    "static/media/applogo.png": "/541_mern7/static/media/applogo.00c1209e36b246541d48.png",
+    "static/media/img1.jpg": "/541_mern7/static/media/img1.a99a7cd402d58c766c4d.jpg",
+    "index.html": "/541_mern7/index.html",
+    "main.82ccfbc0.css.map": "/541_mern7/static/css/main.82ccfbc0.css.map",
+    "main.df3f5641.js.map": "/541_mern7/static/js/main.df3f5641.js.map",
+    "453.a10b87f0.chunk.js.map": "/541_mern7/static/js/453.a10b87f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82ccfbc0.css",
-    "static/js/main.234c64f7.js"
+    "static/js/main.df3f5641.js"
   ]
 }
